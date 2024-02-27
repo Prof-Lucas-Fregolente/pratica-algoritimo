@@ -32,14 +32,12 @@ Desenvolva um algoritmo que verifique uma letra fornecida pelo usuário e inform
 
 ## Informações complementares 
 
-1. Todas as questões foram resolvidas com o software VisuAlg! Um software livre e muito usado por professores para o ensino de algoritimos. [Clique aqui para baixar o VisuAlg!](https://www.youtube.com/watch?v=G5z5SaMzwZU)  
+1. Todas as questões foram resolvidas com o software VisuAlg! Um software livre e muito usado por professores para o ensino de algoritimos. [Clique aqui para baixar o VisuAlg!](https://raw.githubusercontent.com/Prof-Lucas-Fregolente/pratica-algoritimo/main/Arquivos/VisuAlg-3.0.rar)  
 
 2. Estes exercicios foram realizados em lives! Link do Youtube: [Clique aqui para assistir à live!](https://www.youtube.com/watch?v=G5z5SaMzwZU)
 
 3. Tem, duvidas? Existe algum erro, algo que queria compartilhar?
 Deixo aqui um grupo do telegram direcionado para essas duvidas: [Clique aqui para entrar em nosso telegram!](https://t.me/+jG-sjU4z_lw5ZDgx)
-
-[Baixei aqui](https://raw.githubusercontent.com/Prof-Lucas-Fregolente/pratica-algoritimo/main/Arquivos/01_OPERACOES_BASICAS.ALG)
 
 ### Todas as contribuições são bem-vindas, desde correções de bugs até a adição de novos exercícios!
 
