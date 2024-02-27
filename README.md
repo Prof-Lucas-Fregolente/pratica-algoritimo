@@ -39,7 +39,7 @@ Desenvolva um algoritmo que verifique uma letra fornecida pelo usuário e inform
 3. Tem, duvidas? Existe algum erro, algo que queria compartilhar?
 Deixo aqui um grupo do telegram direcionado para essas duvidas: [Clique aqui para entrar em nosso telegram!](https://t.me/+jG-sjU4z_lw5ZDgx)
 
-
+[Baixei aqui](https://raw.githubusercontent.com/Prof-Lucas-Fregolente/pratica-algoritimo/main/Arquivos/01_OPERACOES_BASICAS.ALG)
 
 ### Todas as contribuições são bem-vindas, desde correções de bugs até a adição de novos exercícios!
 
