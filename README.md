@@ -6,28 +6,35 @@ Este repositório contém uma lista de exercícios focados em algoritmo e lógic
 
 ### 1. Operações Básicas
 Escreva um algoritmo que receba dois números do usuário e exiba o resultado da soma, subtração, multiplicação e divisão desses números.
+[Resolução](https://raw.githubusercontent.com/Prof-Lucas-Fregolente/pratica-algoritimo/main/Arquivos/01_OPERACOES_BASICAS.rar)
 
 ### 2. Menu de Operações
 Elabore um algoritmo que leia dois números e exiba o menu de operações (1 - Soma, 2 - Subtração, 3 - Multiplicação, 4 - Divisão). Após o usuário escolher a operação desejada, execute a operação e mostre o resultado.
+[Resolução](https://raw.githubusercontent.com/Prof-Lucas-Fregolente/pratica-algoritimo/main/Arquivos/02_MENU_OPERACOES.rar)
 
-### 3. Positivo, Negativo ou Zero
-Desenvolva um algoritmo que determine se um número fornecido pelo usuário é positivo, negativo ou zero.
-
-### 4. Sequência de Fibonacci
+### 3. Sequência de Fibonacci
 Crie um algoritmo que imprima os primeiros 10 números da sequência de Fibonacci.
+[Resolução](https://raw.githubusercontent.com/Prof-Lucas-Fregolente/pratica-algoritimo/main/Arquivos/03_FIBONACCI.rar)
+
+### 4. Positivo, Negativo ou Zero
+Desenvolva um algoritmo que determine se um número fornecido pelo usuário é positivo, negativo ou zero.
+[Resolução](https://raw.githubusercontent.com/Prof-Lucas-Fregolente/pratica-algoritimo/main/Arquivos/04_VERIFICA_NUMERO.rar)
 
 ### 5. Pesquisa em Vetor
 Implemente um algoritmo que receba um vetor de números e um número a ser pesquisado dentro deste vetor. O algoritmo deve verificar se o número existe no vetor e indicar sua posição.
+[Resolução](https://raw.githubusercontent.com/Prof-Lucas-Fregolente/pratica-algoritimo/main/Arquivos/05_PESQUISA_EM_VETOR.rar)
 
 ### 6. Vetor Inverso
 Elabore um algoritmo que leia um vetor de 5 números inteiros e os exiba na ordem inversa à que foram lidos.
+[Resolução](https://raw.githubusercontent.com/Prof-Lucas-Fregolente/pratica-algoritimo/main/Arquivos/06_VETOR_INVERSO.rar)
 
 ### 7. Ordenação de Vetor
 Escreva um algoritmo que ordene um vetor de números em ordem crescente.
+[Resolução](https://raw.githubusercontent.com/Prof-Lucas-Fregolente/pratica-algoritimo/main/Arquivos/07_ORDENACAO_VETOR.rar)
 
 ### 8. Vogal ou Consoante
 Desenvolva um algoritmo que verifique uma letra fornecida pelo usuário e informe se é vogal ou consoante.
-
+[Resolução](https://raw.githubusercontent.com/Prof-Lucas-Fregolente/pratica-algoritimo/main/Arquivos/08_VOGAL_OU_CONSOANTE.rar)
 
 
 ## Informações complementares 
