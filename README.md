@@ -1,6 +1,6 @@
 # UNIFATECIE: Centro Universitário - Algoritmo e Lógica de Programação
 
-Este repositório contém uma lista de exercícios focados em algoritmo e lógica de programação, ideal para estudantes iniciantes na área de Ciência da Computação ou Engenharia de Software. Os exercícios abrangem operações básicas, lógica condicional, loops, vetores e funções.
+Este repositório contém uma lista de exercícios focados em algoritmo e lógica de programação, ideal para estudantes da disciplina! Os exercícios abrangem operações básicas, lógica condicional, loops, vetores e funções.
 
 ## Lista de Exercícios
 
@@ -31,15 +31,13 @@ Desenvolva um algoritmo que conte o número de vogais em uma string fornecida pe
 ### 9. Menu de Operações
 Elabore um algoritmo que leia dois números e exiba o menu de operações (1 - Soma, 2 - Subtração, 3 - Multiplicação, 4 - Divisão). Após o usuário escolher a operação desejada, execute a operação e mostre o resultado.
 
-## Como Contribuir
+## Informações complementares 
 
-Para contribuir com este projeto, por favor, siga os seguintes passos:
+1. Estes exercicios foram realizados em lives! Link do Youtube: https://www.youtube.com/watch?v=G5z5SaMzwZU
 
-1. Faça um fork do repositório.
-2. Crie uma nova branch para sua contribuição (`git checkout -b feature/nomeDaSuaFeature`).
-3. Faça suas alterações e commit (`git commit -am 'Adiciona novas features'`).
-4. Push para a branch (`git push origin feature/nomeDaSuaFeature`).
-5. Crie um novo Pull Request.
+2. Tem, duvidas? Existe algum erro, algo que queria apontar?
+Deixo aqui um grupo do telegram direcionado para essas duvida: https://t.me/+jG-sjU4z_lw5ZDgx 
+
 
 Todas as contribuições são bem-vindas, desde correções de bugs até a adição de novos exercícios!
 
