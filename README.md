@@ -33,13 +33,14 @@ Elabore um algoritmo que leia dois números e exiba o menu de operações (1 - S
 
 ## Informações complementares 
 
-1. Estes exercicios foram realizados em lives! Link do Youtube: https://www.youtube.com/watch?v=G5z5SaMzwZU
+1. Estes exercicios foram realizados em lives! Link do Youtube: [Clique aqui para assistir à live!](https://www.youtube.com/watch?v=G5z5SaMzwZU)
+
 
 2. Tem, duvidas? Existe algum erro, algo que queria apontar?
-Deixo aqui um grupo do telegram direcionado para essas duvida: https://t.me/+jG-sjU4z_lw5ZDgx 
+Deixo aqui um grupo do telegram direcionado para essas duvida:[Clique aqui para entrar em nosso telegram!](https://t.me/+jG-sjU4z_lw5ZDgx)
 
 
-Todas as contribuições são bem-vindas, desde correções de bugs até a adição de novos exercícios!
+### Todas as contribuições são bem-vindas, desde correções de bugs até a adição de novos exercícios!
 
 ---
 
